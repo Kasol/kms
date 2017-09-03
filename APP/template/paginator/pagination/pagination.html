@@ -1,0 +1,10 @@
+<ul class="pagination">
+    <li><a href="javascript:void 0;" ai-click='previous'>&larr;</a></li>
+    <volist name="info.page_size" id="vo"  empty='没有数据'>
+        <li><a href="#{$vo}" ai-click="refresh_files({$vo})">{$vo}</a></li>
+    </volist>
+    <li><a href="javascript:void 0;" ai-click='next'>&rarr;</a></li>
+</ul>
+
+
+

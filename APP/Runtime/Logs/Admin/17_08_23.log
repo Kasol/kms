@@ -1,0 +1,24 @@
+[ 2017-08-23T10:18:57+08:00 ] ::1 /KMS/Admin/GetData/getClientIp
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.018422s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003391s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003559s ]
+NOTIC: [2] fopen(E:\XAMPP\htdocs\KMS\ThinkPHP\Library\Org\Net/UTFWry.dat): failed to open stream: No such file or directory E:\XAMPP\htdocs\KMS\ThinkPHP\Library\Org\Net\IpLocation.class.php 第 54 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002683s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002784s ]
+
+[ 2017-08-23T10:21:08+08:00 ] ::1 /KMS/Admin/GetData/getClientIp
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001424s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001996s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002118s ]
+NOTIC: [2] fopen(E:\XAMPP\htdocs\KMS\ThinkPHP\Library\Org\Net/UTFWry.dat): failed to open stream: No such file or directory E:\XAMPP\htdocs\KMS\ThinkPHP\Library\Org\Net\IpLocation.class.php 第 54 行.
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001707s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001798s ]
+

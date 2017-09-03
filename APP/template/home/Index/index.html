@@ -1,0 +1,41 @@
+<extend name="./layout" />
+<block name="title"><title>首页</title></block>
+
+<block name="content">
+      <div class="water-fall" ai-controller="waterController" id="waterFallWrapper">
+          <div class="box" ai-repeat="items"  >
+              <div class="pic" >
+                  <a data-toggle='tooltip' title="古则房产，万年精华聚于一身，好房子，一套就够了O(∩_∩)O哈哈~" >
+                      <img  class="img tool-tip" ai-src="[[item.src]]" >
+                  </a>
+              </div>
+          </div>
+      </div>
+
+</block>
+<block name="extend_script">
+  <script>
+      window.IMG_PATH="/KMS/Pub/static/img/";
+
+  seajs.use(['/KMS/Pub/static/js/home/waterFall.js','/KMS/Pub/static/js/common/isToBottom.js'],function(WaterFall,isToBottom){
+	 var waterFall= new WaterFall();
+      var timeHook;
+      waterFall.init();
+      $(window).on("load",function(){
+          waterFall.sort('waterFallWrapper','box');
+      }).on("resize",function(){
+          waterFall.sort('waterFallWrapper','box');
+      }).on("scroll",function(){
+          clearTimeout(timeHook);
+          timeHook=setTimeout(function(){
+              isToBottom.isToBottom('waterFallWrapper');
+          },1000);
+      });
+
+
+
+  });
+  </script>
+</block>
+
+

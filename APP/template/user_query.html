@@ -1,0 +1,12 @@
+<!--即时查询组件-->
+<div ai-controller="UserQuery">
+    <div class="user-query" ai-visible="show" ai-style-top="top" ai-style-left="left">
+        <ul>
+            <li ai-repeat="user_list">
+                <a href="javascript:;"  class="btn" ai-click="add_user" ai-title="[[item.emailAddr]]" >
+                    <span class="nickname"  >[[item.comment_info]]</span>
+                </a>
+            </li>
+        </ul>
+    </div>
+</div>

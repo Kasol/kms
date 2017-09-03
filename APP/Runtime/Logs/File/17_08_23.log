@@ -1,0 +1,1407 @@
+[ 2017-08-23T09:39:51+08:00 ] ::1 /KMS/File/FileList/showList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000732s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004115s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004335s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000205s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000321s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.190753s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.190911s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000713s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000771s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001331s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001454s ]
+
+[ 2017-08-23T09:39:58+08:00 ] ::1 /KMS/File/FileList/showList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000029s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000786s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001142s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001232s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000128s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000197s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015035s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015134s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000472s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000544s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001865s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001959s ]
+
+[ 2017-08-23T09:40:00+08:00 ] ::1 /KMS/File/FileList/showList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000825s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000970s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.231530s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000464s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000647s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.037396s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.037646s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001716s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001879s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003099s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003311s ]
+
+[ 2017-08-23T09:40:01+08:00 ] ::1 /KMS/File/FileList/showList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000602s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000823s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000897s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000149s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000219s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.011440s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.011542s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000472s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000522s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000830s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000904s ]
+
+[ 2017-08-23T09:40:02+08:00 ] ::1 /KMS/File/FileList/showList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000076s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000959s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000658s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000725s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000193s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000293s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015257s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015342s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000958s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001033s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001184s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001299s ]
+
+[ 2017-08-23T09:40:03+08:00 ] ::1 /KMS/File/FileList/showList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000027s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000895s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001123s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001234s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000193s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000292s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.015733s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.015848s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000523s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000611s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000913s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001006s ]
+
+[ 2017-08-23T09:40:08+08:00 ] ::1 /KMS/File/FileList/showList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000014s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000501s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000531s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000578s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000110s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000165s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.009392s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.009453s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000322s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000360s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001336s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001423s ]
+
+[ 2017-08-23T09:40:14+08:00 ] ::1 /KMS/File/FileUpload/queryFiles
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000831s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000632s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000687s ]
+SQL: SHOW COLUMNS FROM `file` [ RunTime:0.4601s ]
+SQL: SELECT * FROM `file` WHERE `upload_by` = 'kasol'  [ RunTime:0.1480s ]
+
+[ 2017-08-23T09:40:14+08:00 ] ::1 /KMS/File/FileUpload/queryFiles
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000699s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001064s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001159s ]
+SQL: SHOW COLUMNS FROM `file` [ RunTime:0.0071s ]
+SQL: SELECT * FROM `file` WHERE `upload_by` = 'kasol'  [ RunTime:0.0005s ]
+
+[ 2017-08-23T09:42:13+08:00 ] ::1 /KMS/File/FileUpload/queryFiles
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000050s ]
+INFO: [ app_init ] --END-- [ RunTime:0.016767s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.009623s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009824s ]
+SQL: SHOW COLUMNS FROM `file` [ RunTime:0.0145s ]
+SQL: SELECT * FROM `file` WHERE `upload_by` = 'kasol'  [ RunTime:0.0011s ]
+
+[ 2017-08-23T09:43:10+08:00 ] ::1 /KMS/File/FileList/showList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000862s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001041s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001135s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000577s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000894s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.331576s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.331971s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.040120s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.040361s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.032959s ]
+INFO: [ app_end ] --END-- [ RunTime:0.033236s ]
+
+[ 2017-08-23T09:43:11+08:00 ] ::1 /KMS/File/FileUpload/queryFiles
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000986s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001193s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001279s ]
+SQL: SHOW COLUMNS FROM `file` [ RunTime:0.0121s ]
+SQL: SELECT * FROM `file` WHERE `upload_by` = 'kasol'  [ RunTime:0.0004s ]
+
+[ 2017-08-23T09:43:59+08:00 ] ::1 /KMS/File/FileUpload/saveFiles
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000709s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001050s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001183s ]
+SQL: SHOW COLUMNS FROM `file` [ RunTime:0.0434s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given E:\XAMPP\htdocs\KMS\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+SQL: REPLACE INTO `file` (`file_path`,`file_name`,`file_type`,`upload_by`) VALUES ('20170823/599cdddf817e3.png','search.png','image/png','kasol') [ RunTime:0.0498s ]
+
+[ 2017-08-23T09:43:59+08:00 ] ::1 /KMS/File/FileUpload/queryFiles
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000701s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001844s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002125s ]
+SQL: SHOW COLUMNS FROM `file` [ RunTime:0.0136s ]
+SQL: SELECT * FROM `file` WHERE `upload_by` = 'kasol'  [ RunTime:0.0004s ]
+
+[ 2017-08-23T12:03:22+08:00 ] ::1 /KMS/File/FileList/showList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002143s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003274s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003430s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000188s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000277s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.065969s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.066106s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002757s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002875s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.004459s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004602s ]
+
+[ 2017-08-23T12:03:23+08:00 ] ::1 /KMS/File/FileUpload/queryFiles
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000933s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003242s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003378s ]
+SQL: SHOW COLUMNS FROM `file` [ RunTime:0.0096s ]
+SQL: SELECT * FROM `file` WHERE `upload_by` = 'kasol'  [ RunTime:0.0009s ]
+
+[ 2017-08-23T13:40:15+08:00 ] ::1 /KMS/File/FileList/showList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002005s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002313s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002416s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000298s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000435s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.143831s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.143989s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002765s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002886s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003938s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004167s ]
+
+[ 2017-08-23T13:40:16+08:00 ] ::1 /KMS/File/FileUpload/queryFiles
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001758s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.009308s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.009619s ]
+SQL: SHOW COLUMNS FROM `file` [ RunTime:0.0517s ]
+SQL: SELECT * FROM `file` WHERE `upload_by` = 'kasol'  [ RunTime:0.0139s ]
+
+[ 2017-08-23T13:51:55+08:00 ] ::1 /KMS/File/FileUpload/queryFiles
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.008005s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003569s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003747s ]
+SQL: SHOW COLUMNS FROM `file` [ RunTime:0.0337s ]
+SQL: SELECT * FROM `file` WHERE `upload_by` = 'kasol' LIMIT 0,5   [ RunTime:0.0038s ]
+
+[ 2017-08-23T13:52:20+08:00 ] ::1 /KMS/File/FileUpload/queryFiles
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001257s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002690s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002839s ]
+SQL: SHOW COLUMNS FROM `file` [ RunTime:0.0091s ]
+SQL: SELECT * FROM `file` WHERE `upload_by` = 'kasol' LIMIT 0,5   [ RunTime:0.0006s ]
+
+[ 2017-08-23T13:53:05+08:00 ] ::1 /KMS/File/FileUpload/queryFiles?pageid=2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001459s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002517s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002675s ]
+SQL: SHOW COLUMNS FROM `file` [ RunTime:0.0471s ]
+SQL: SELECT * FROM `file` WHERE `upload_by` = 'kasol' LIMIT 0,5   [ RunTime:0.0005s ]
+
+[ 2017-08-23T13:53:34+08:00 ] ::1 /KMS/File/FileUpload/queryFiles?pageId=2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001871s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004096s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004293s ]
+SQL: SHOW COLUMNS FROM `file` [ RunTime:0.0071s ]
+SQL: SELECT * FROM `file` WHERE `upload_by` = 'kasol' LIMIT 5,10   [ RunTime:0.0005s ]
+
+[ 2017-08-23T13:56:00+08:00 ] ::1 /KMS/File/FileUpload/queryFiles?pageId=2
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001598s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004364s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004527s ]
+SQL: SHOW COLUMNS FROM `file` [ RunTime:0.0097s ]
+SQL: SELECT * FROM `file` WHERE `upload_by` = 'kasol' LIMIT 5,5   [ RunTime:0.0006s ]
+
+[ 2017-08-23T13:56:13+08:00 ] ::1 /KMS/File/FileUpload/queryFiles?pageId=3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001412s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002441s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002598s ]
+SQL: SHOW COLUMNS FROM `file` [ RunTime:0.0093s ]
+SQL: SELECT * FROM `file` WHERE `upload_by` = 'kasol' LIMIT 10,5   [ RunTime:0.0008s ]
+
+[ 2017-08-23T13:56:38+08:00 ] ::1 /KMS/File/FileUpload/queryFiles?pageId=1&pageNum=10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002016s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002601s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002769s ]
+SQL: SHOW COLUMNS FROM `file` [ RunTime:0.0087s ]
+SQL: SELECT * FROM `file` WHERE `upload_by` = 'kasol' LIMIT 0,5   [ RunTime:0.0007s ]
+
+[ 2017-08-23T13:57:14+08:00 ] ::1 /KMS/File/FileUpload/queryFiles?pageId=1&pageNum=10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001592s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002543s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002705s ]
+SQL: SHOW COLUMNS FROM `file` [ RunTime:0.1261s ]
+SQL: SELECT * FROM `file` WHERE `upload_by` = 'kasol' LIMIT 0,5   [ RunTime:0.0007s ]
+
+[ 2017-08-23T13:58:19+08:00 ] ::1 /KMS/File/FileUpload/queryFiles?pageId=1&pageNum=10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001369s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002990s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003149s ]
+SQL: SHOW COLUMNS FROM `file` [ RunTime:0.0074s ]
+SQL: SELECT * FROM `file` WHERE `upload_by` = 'kasol' LIMIT 0,10   [ RunTime:0.0007s ]
+
+[ 2017-08-23T13:58:33+08:00 ] ::1 /KMS/File/FileUpload/queryFiles?pageId=2&pageNum=10
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002823s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002510s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002672s ]
+SQL: SHOW COLUMNS FROM `file` [ RunTime:0.0551s ]
+SQL: SELECT * FROM `file` WHERE `upload_by` = 'kasol' LIMIT 10,10   [ RunTime:0.0005s ]
+
+[ 2017-08-23T13:58:46+08:00 ] ::1 /KMS/File/FileUpload/queryFiles
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000049s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001131s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003987s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004229s ]
+SQL: SHOW COLUMNS FROM `file` [ RunTime:0.0317s ]
+SQL: SELECT * FROM `file` WHERE `upload_by` = 'kasol' LIMIT 0,5   [ RunTime:0.0006s ]
+
+[ 2017-08-23T14:20:35+08:00 ] ::1 /KMS/File/FileUpload/queryFiles
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.052767s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002320s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002456s ]
+SQL: SHOW COLUMNS FROM `file` [ RunTime:0.0116s ]
+NOTIC: [2] strpos() expects parameter 1 to be string, object given E:\XAMPP\htdocs\KMS\ThinkPHP\Common\functions.php 第 614 行.
+NOTIC: [4096] Object of class Think\Model could not be converted to string E:\XAMPP\htdocs\KMS\ThinkPHP\Common\functions.php 第 619 行.
+NOTIC: [2] strpos() expects parameter 1 to be string, object given E:\XAMPP\htdocs\KMS\ThinkPHP\Library\Think\Model.class.php 第 77 行.
+NOTIC: [4096] Object of class Think\Model could not be converted to string E:\XAMPP\htdocs\KMS\ThinkPHP\Common\functions.php 第 457 行.
+NOTIC: [8] Object of class Think\Model to string conversion E:\XAMPP\htdocs\KMS\ThinkPHP\Common\functions.php 第 457 行.
+ERR: 1146:Table 'kms.object' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `object`
+ERR: 1146:Table 'kms.object' doesn't exist
+ [ SQL语句 ] : SHOW COLUMNS FROM `object`
+
+[ 2017-08-23T14:23:17+08:00 ] ::1 /KMS/File/FileUpload/queryFiles
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000041s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001451s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001615s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001745s ]
+SQL: SHOW COLUMNS FROM `file` [ RunTime:0.1464s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `file` WHERE `upload_by` = 'kasol' LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `file` WHERE `upload_by` = 'kasol' LIMIT 0,12   [ RunTime:0.0007s ]
+
+[ 2017-08-23T14:25:38+08:00 ] ::1 /KMS/File/FileList/showList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001963s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002047s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002192s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000275s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000508s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.187604s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.187741s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.009742s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.009865s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.006872s ]
+INFO: [ app_end ] --END-- [ RunTime:0.007001s ]
+
+[ 2017-08-23T14:25:40+08:00 ] ::1 /KMS/File/FileUpload/queryFiles
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001111s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001791s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001983s ]
+SQL: SHOW COLUMNS FROM `file` [ RunTime:0.0125s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `file` WHERE `upload_by` = 'kasol' LIMIT 1   [ RunTime:0.0008s ]
+SQL: SELECT * FROM `file` WHERE `upload_by` = 'kasol' LIMIT 0,12   [ RunTime:0.0008s ]
+
+[ 2017-08-23T14:25:42+08:00 ] ::1 /KMS/File/FileUpload/queryFiles
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001058s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001336s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001468s ]
+SQL: SHOW COLUMNS FROM `file` [ RunTime:0.0124s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `file` WHERE `upload_by` = 'kasol' LIMIT 1   [ RunTime:0.0006s ]
+SQL: SELECT * FROM `file` WHERE `upload_by` = 'kasol' LIMIT 0,12   [ RunTime:0.0007s ]
+
+[ 2017-08-23T14:26:02+08:00 ] ::1 /KMS/File/FileList/showList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001200s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001455s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001612s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000275s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000416s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.044925s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.045071s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001206s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001329s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001673s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001921s ]
+
+[ 2017-08-23T14:26:03+08:00 ] ::1 /KMS/File/FileUpload/queryFiles
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000070s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002346s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002170s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002314s ]
+SQL: SHOW COLUMNS FROM `file` [ RunTime:0.0091s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `file` WHERE `upload_by` = 'kasol' LIMIT 1   [ RunTime:0.0007s ]
+SQL: SELECT * FROM `file` WHERE `upload_by` = 'kasol' LIMIT 0,12   [ RunTime:0.0007s ]
+
+[ 2017-08-23T14:26:14+08:00 ] ::1 /KMS/File/FileList/showList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001125s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005240s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006338s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000291s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000436s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.049594s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.049756s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001528s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001657s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002130s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002277s ]
+
+[ 2017-08-23T14:26:15+08:00 ] ::1 /KMS/File/FileUpload/queryFiles
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001152s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001930s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002091s ]
+SQL: SHOW COLUMNS FROM `file` [ RunTime:0.0086s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `file` WHERE `upload_by` = 'kasol' LIMIT 1   [ RunTime:0.0006s ]
+SQL: SELECT * FROM `file` WHERE `upload_by` = 'kasol' LIMIT 0,12   [ RunTime:0.0006s ]
+
+[ 2017-08-23T14:28:37+08:00 ] ::1 /KMS/File/FileList/showList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.005224s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002469s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002642s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000189s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000281s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.021564s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.021716s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001101s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001202s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002192s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002393s ]
+
+[ 2017-08-23T14:28:39+08:00 ] ::1 /KMS/File/FileUpload/queryFiles
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001093s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001759s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001915s ]
+SQL: SHOW COLUMNS FROM `file` [ RunTime:0.0088s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `file` WHERE `upload_by` = 'kasol' LIMIT 1   [ RunTime:0.0007s ]
+SQL: SELECT * FROM `file` WHERE `upload_by` = 'kasol' LIMIT 0,12   [ RunTime:0.0007s ]
+
+[ 2017-08-23T14:30:40+08:00 ] ::1 /KMS/File/FileList/showList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001363s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002050s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002199s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000291s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000436s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.032193s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.032369s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001475s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001622s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.005483s ]
+INFO: [ app_end ] --END-- [ RunTime:0.005719s ]
+
+[ 2017-08-23T14:30:41+08:00 ] ::1 /KMS/File/FileUpload/queryFiles
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001114s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001430s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001574s ]
+SQL: SHOW COLUMNS FROM `file` [ RunTime:0.0095s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `file` WHERE `upload_by` = 'kasol' LIMIT 1   [ RunTime:0.0006s ]
+SQL: SELECT * FROM `file` WHERE `upload_by` = 'kasol' LIMIT 0,12   [ RunTime:0.0007s ]
+
+[ 2017-08-23T14:32:36+08:00 ] ::1 /KMS/File/FileList/showList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001031s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001270s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001398s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000179s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000267s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.016968s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.017069s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000547s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000671s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001206s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001397s ]
+
+[ 2017-08-23T14:32:37+08:00 ] ::1 /KMS/File/FileUpload/queryFiles
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001016s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001422s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001509s ]
+SQL: SHOW COLUMNS FROM `file` [ RunTime:0.0091s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `file` WHERE `upload_by` = 'kasol' LIMIT 1   [ RunTime:0.0006s ]
+SQL: SELECT * FROM `file` WHERE `upload_by` = 'kasol' LIMIT 0,12   [ RunTime:0.0005s ]
+
+[ 2017-08-23T14:33:08+08:00 ] ::1 /KMS/File/FileList/showList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000730s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000872s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000966s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000175s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000261s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.032092s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.032203s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001333s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001443s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002106s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002232s ]
+
+[ 2017-08-23T14:33:09+08:00 ] ::1 /KMS/File/FileUpload/queryFiles
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001846s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001451s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001540s ]
+SQL: SHOW COLUMNS FROM `file` [ RunTime:0.0078s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `file` WHERE `upload_by` = 'kasol' LIMIT 1   [ RunTime:0.0006s ]
+SQL: SELECT * FROM `file` WHERE `upload_by` = 'kasol' LIMIT 0,12   [ RunTime:0.0005s ]
+
+[ 2017-08-23T14:34:40+08:00 ] ::1 /KMS/File/FileList/showList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001153s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001785s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001983s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000182s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000274s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.032831s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.032953s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001024s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001119s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.012775s ]
+INFO: [ app_end ] --END-- [ RunTime:0.012941s ]
+
+[ 2017-08-23T14:34:41+08:00 ] ::1 /KMS/File/FileUpload/queryFiles
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001335s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002214s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002360s ]
+SQL: SHOW COLUMNS FROM `file` [ RunTime:0.0102s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `file` WHERE `upload_by` = 'kasol' LIMIT 1   [ RunTime:0.0006s ]
+SQL: SELECT * FROM `file` WHERE `upload_by` = 'kasol' LIMIT 0,12   [ RunTime:0.0006s ]
+
+[ 2017-08-23T14:35:34+08:00 ] ::1 /KMS/File/FileUpload/saveFiles
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002383s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001780s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001933s ]
+SQL: SHOW COLUMNS FROM `file` [ RunTime:0.0555s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given E:\XAMPP\htdocs\KMS\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+SQL: REPLACE INTO `file` (`file_path`,`file_name`,`file_type`,`upload_by`) VALUES ('20170823/599d2235d459f.png','iVBORw0KGgoAAAANSUhEUgAABHIAAAI5CAYAAADNBB15AAAgAElEQVR4XuzdX6hv6Vkn+Pe3T6UqU9ZQKRs6M8xA0CZp2yHT4I3ooD02DhhF2jJ9QlpPE6nO-m0poRssxVx0bLUH8geqoRmIdfY5nlZJ0YmlCf4ZcyPdk5uGQFQYGRkS+sKA6YmjdEVjdZFzstdwxqqmCNprrd971nr.png','image/png','kasol') [ RunTime:0.1655s ]
+
+[ 2017-08-23T14:35:34+08:00 ] ::1 /KMS/File/FileUpload/queryFiles
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000903s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003273s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003408s ]
+SQL: SHOW COLUMNS FROM `file` [ RunTime:0.0072s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `file` WHERE `upload_by` = 'kasol' LIMIT 1   [ RunTime:0.0005s ]
+SQL: SELECT * FROM `file` WHERE `upload_by` = 'kasol' LIMIT 0,12   [ RunTime:0.0005s ]
+
+[ 2017-08-23T15:14:42+08:00 ] ::1 /KMS/File/FileUpload/queryfiles
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.031731s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003912s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004094s ]
+SQL: SHOW COLUMNS FROM `file` [ RunTime:0.0112s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `file` WHERE `upload_by` = 'kasol' LIMIT 1   [ RunTime:0.0013s ]
+SQL: SELECT * FROM `file` WHERE `upload_by` = 'kasol' LIMIT 0,12   [ RunTime:0.0007s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000087s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000195s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.170695s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.170855s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.017635s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.017746s ]
+
+[ 2017-08-23T15:15:06+08:00 ] ::1 /KMS/File/FileUpload/queryfiles
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001319s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.005075s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005237s ]
+SQL: SHOW COLUMNS FROM `file` [ RunTime:0.0318s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `file` WHERE `upload_by` = 'kasol' LIMIT 1   [ RunTime:0.0005s ]
+SQL: SELECT * FROM `file` WHERE `upload_by` = 'kasol' LIMIT 0,12   [ RunTime:0.0006s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000114s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000245s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.053831s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.053982s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.003463s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003592s ]
+
+[ 2017-08-23T15:16:15+08:00 ] ::1 /KMS/File/FileUpload/queryfiles
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000919s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002658s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002758s ]
+SQL: SHOW COLUMNS FROM `file` [ RunTime:0.0288s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `file` WHERE `upload_by` = 'kasol' LIMIT 1   [ RunTime:0.0006s ]
+SQL: SELECT * FROM `file` WHERE `upload_by` = 'kasol' LIMIT 0,12   [ RunTime:0.0005s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000121s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000260s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.020637s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.020767s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.003088s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003220s ]
+
+[ 2017-08-23T15:48:41+08:00 ] ::1 /KMS/File/FileList/showList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000052s ]
+INFO: [ app_init ] --END-- [ RunTime:0.040430s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.022838s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.023095s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000357s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000540s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.117848s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.118027s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.007277s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.007569s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.010997s ]
+INFO: [ app_end ] --END-- [ RunTime:0.011260s ]
+
+[ 2017-08-23T15:48:44+08:00 ] ::1 /KMS/File/FileUpload/queryFiles
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000889s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001386s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001466s ]
+SQL: SHOW COLUMNS FROM `file` [ RunTime:0.0100s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `file` WHERE `upload_by` = 'kasol' LIMIT 1   [ RunTime:0.0009s ]
+SQL: SELECT * FROM `file` WHERE `upload_by` = 'kasol' LIMIT 0,12   [ RunTime:0.0062s ]
+
+[ 2017-08-23T15:57:12+08:00 ] ::1 /KMS/File/FileUpload/saveFiles
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001413s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002718s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003118s ]
+SQL: SHOW COLUMNS FROM `file` [ RunTime:0.0134s ]
+NOTIC: [2] call_user_func() expects parameter 1 to be a valid callback, no array or string given E:\XAMPP\htdocs\KMS\ThinkPHP\Library\Think\Upload.class.php 第 170 行.
+SQL: REPLACE INTO `file` (`file_path`,`file_name`,`file_type`,`upload_by`) VALUES ('20170823/599d355862d63.gif','loading.gif','image/gif','kasol') [ RunTime:0.1174s ]
+
+[ 2017-08-23T15:57:12+08:00 ] ::1 /KMS/File/FileUpload/queryFiles
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000101s ]
+INFO: [ app_init ] --END-- [ RunTime:0.002909s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004827s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004971s ]
+SQL: SHOW COLUMNS FROM `file` [ RunTime:0.0334s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `file` WHERE `upload_by` = 'kasol' LIMIT 1   [ RunTime:0.0067s ]
+SQL: SELECT * FROM `file` WHERE `upload_by` = 'kasol' LIMIT 0,12   [ RunTime:0.0096s ]
+
+[ 2017-08-23T16:27:37+08:00 ] ::1 /KMS/File/FileList/showList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.050046s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.094455s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.094633s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000183s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000281s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.296003s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.296114s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.023041s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.023132s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003302s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003401s ]
+
+[ 2017-08-23T16:27:42+08:00 ] ::1 /KMS/File/FileUpload/queryFiles
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000970s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002223s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002350s ]
+SQL: SHOW COLUMNS FROM `file` [ RunTime:0.0186s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `file` WHERE `upload_by` = 'kasol' LIMIT 1   [ RunTime:0.0008s ]
+SQL: SELECT * FROM `file` WHERE `upload_by` = 'kasol' LIMIT 0,12   [ RunTime:0.0004s ]
+
+[ 2017-08-23T16:35:42+08:00 ] ::1 /KMS/File/FileList/showList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001403s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003143s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003325s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000225s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000318s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.064804s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.064952s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001261s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001338s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003697s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003835s ]
+
+[ 2017-08-23T16:35:43+08:00 ] ::1 /KMS/File/FileUpload/queryFiles
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000025s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001120s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001908s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002035s ]
+SQL: SHOW COLUMNS FROM `file` [ RunTime:0.0458s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `file` WHERE `upload_by` = 'kasol' LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `file` WHERE `upload_by` = 'kasol' LIMIT 0,12   [ RunTime:0.0009s ]
+NOTIC: [2] array_push() expects parameter 1 to be array, null given E:\XAMPP\htdocs\KMS\APP\Paginator\Controller\PaginatorController.class.php 第 23 行.
+NOTIC: [2] array_push() expects parameter 1 to be array, null given E:\XAMPP\htdocs\KMS\APP\Paginator\Controller\PaginatorController.class.php 第 23 行.
+
+[ 2017-08-23T16:36:46+08:00 ] ::1 /KMS/File/FileList/showList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001454s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004751s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004912s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000681s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.003339s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.046530s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.046687s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002498s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002631s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.007303s ]
+INFO: [ app_end ] --END-- [ RunTime:0.007574s ]
+
+[ 2017-08-23T16:36:47+08:00 ] ::1 /KMS/File/FileUpload/queryFiles
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001187s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002358s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002505s ]
+SQL: SHOW COLUMNS FROM `file` [ RunTime:0.0094s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `file` WHERE `upload_by` = 'kasol' LIMIT 1   [ RunTime:0.0005s ]
+SQL: SELECT * FROM `file` WHERE `upload_by` = 'kasol' LIMIT 0,12   [ RunTime:0.0005s ]
+
+[ 2017-08-23T16:38:33+08:00 ] ::1 /KMS/File/FileList/showList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001653s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004241s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004525s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000279s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000422s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.079682s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.079851s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002699s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002838s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.006821s ]
+INFO: [ app_end ] --END-- [ RunTime:0.007011s ]
+
+[ 2017-08-23T16:38:34+08:00 ] ::1 /KMS/File/FileUpload/queryFiles
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001471s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002476s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002625s ]
+SQL: SHOW COLUMNS FROM `file` [ RunTime:0.0100s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `file` WHERE `upload_by` = 'kasol' LIMIT 1   [ RunTime:0.0012s ]
+SQL: SELECT * FROM `file` WHERE `upload_by` = 'kasol' LIMIT 0,12   [ RunTime:0.0010s ]
+
+[ 2017-08-23T16:40:31+08:00 ] ::1 /KMS/File/FileList/showList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000051s ]
+INFO: [ app_init ] --END-- [ RunTime:0.004120s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.006430s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.006601s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000289s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000419s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.037583s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.037748s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001883s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002006s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.011007s ]
+INFO: [ app_end ] --END-- [ RunTime:0.011264s ]
+
+[ 2017-08-23T16:40:32+08:00 ] ::1 /KMS/File/FileUpload/queryFiles
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001476s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001705s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001842s ]
+SQL: SHOW COLUMNS FROM `file` [ RunTime:0.0250s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `file` WHERE `upload_by` = 'kasol' LIMIT 1   [ RunTime:0.0005s ]
+SQL: SELECT * FROM `file` WHERE `upload_by` = 'kasol' LIMIT 0,12   [ RunTime:0.0005s ]
+
+[ 2017-08-23T16:41:51+08:00 ] ::1 /KMS/File/FileUpload/queryfiles
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000037s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001346s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003036s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003189s ]
+SQL: SHOW COLUMNS FROM `file` [ RunTime:0.0077s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `file` WHERE `upload_by` = 'kasol' LIMIT 1   [ RunTime:0.0005s ]
+SQL: SELECT * FROM `file` WHERE `upload_by` = 'kasol' LIMIT 0,12   [ RunTime:0.0006s ]
+
+[ 2017-08-23T16:41:53+08:00 ] ::1 /KMS/File/FileList/showList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001656s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002378s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002535s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000300s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000465s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.043116s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.043283s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002172s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002359s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.004597s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004751s ]
+
+[ 2017-08-23T16:41:54+08:00 ] ::1 /KMS/File/FileUpload/queryFiles
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000040s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001768s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002419s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002567s ]
+SQL: SHOW COLUMNS FROM `file` [ RunTime:0.0100s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `file` WHERE `upload_by` = 'kasol' LIMIT 1   [ RunTime:0.0019s ]
+SQL: SELECT * FROM `file` WHERE `upload_by` = 'kasol' LIMIT 0,12   [ RunTime:0.0020s ]
+
+[ 2017-08-23T16:44:24+08:00 ] ::1 /KMS/File/FileList/showList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001426s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002575s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002726s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000185s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000277s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.031347s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.031475s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001561s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001661s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002971s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003241s ]
+
+[ 2017-08-23T16:44:24+08:00 ] ::1 /KMS/File/FileUpload/queryFiles
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000965s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002280s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002399s ]
+SQL: SHOW COLUMNS FROM `file` [ RunTime:0.0073s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `file` WHERE `upload_by` = 'kasol' LIMIT 1   [ RunTime:0.0006s ]
+SQL: SELECT * FROM `file` WHERE `upload_by` = 'kasol' LIMIT 0,12   [ RunTime:0.0006s ]
+
+[ 2017-08-23T16:46:29+08:00 ] ::1 /KMS/File/FileList/showList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000039s ]
+INFO: [ app_init ] --END-- [ RunTime:0.260251s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.077864s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.077995s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000220s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000337s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.236763s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.236917s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.052017s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.052142s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.551156s ]
+INFO: [ app_end ] --END-- [ RunTime:0.551309s ]
+
+[ 2017-08-23T16:46:33+08:00 ] ::1 /KMS/File/FileUpload/queryFiles
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000034s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001379s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003506s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003640s ]
+SQL: SHOW COLUMNS FROM `file` [ RunTime:0.0101s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `file` WHERE `upload_by` = 'kasol' LIMIT 1   [ RunTime:0.0005s ]
+SQL: SELECT * FROM `file` WHERE `upload_by` = 'kasol' LIMIT 0,12   [ RunTime:0.0012s ]
+
+[ 2017-08-23T20:56:14+08:00 ] ::1 /KMS/File/FileUpload/queryFiles
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.007387s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.014255s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.014559s ]
+SQL: SHOW COLUMNS FROM `file` [ RunTime:0.0278s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `file` WHERE `upload_by` = 'kasol' LIMIT 1   [ RunTime:0.0010s ]
+SQL: SELECT * FROM `file` WHERE `upload_by` = 'kasol' LIMIT 0,12   [ RunTime:0.0108s ]
+
+[ 2017-08-23T20:56:50+08:00 ] ::1 /KMS/File/FileList/showList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001098s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002581s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002722s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000202s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000294s ]
+NOTIC: [8] Undefined variable: list E:\XAMPP\htdocs\KMS\APP\Runtime\Cache\File\9ff97a256eed39422615e1ad086c624c.php 第 160 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.331942s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.332076s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.020296s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.020404s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.006868s ]
+INFO: [ app_end ] --END-- [ RunTime:0.007022s ]
+
+[ 2017-08-23T20:56:51+08:00 ] ::1 /KMS/File/FileUpload/queryFiles
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000953s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004686s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004814s ]
+SQL: SHOW COLUMNS FROM `file` [ RunTime:0.0084s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `file` WHERE `upload_by` = 'kasol' LIMIT 1   [ RunTime:0.0005s ]
+SQL: SELECT * FROM `file` WHERE `upload_by` = 'kasol' LIMIT 0,12   [ RunTime:0.0005s ]
+
+[ 2017-08-23T21:00:11+08:00 ] ::1 /KMS/File/FileList/showList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000028s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001277s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004285s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004441s ]
+SQL: SHOW COLUMNS FROM `file` [ RunTime:0.0070s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `file` WHERE `upload_by` = 'kasol' LIMIT 1   [ RunTime:0.0004s ]
+SQL: SELECT * FROM `file` WHERE `upload_by` = 'kasol' LIMIT 0,12   [ RunTime:0.0004s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000192s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000277s ]
+NOTIC: [8] Undefined variable: file_info E:\XAMPP\htdocs\KMS\APP\Runtime\Cache\File\9ff97a256eed39422615e1ad086c624c.php 第 122 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.025049s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.025138s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001866s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001940s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.004001s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004135s ]
+
+[ 2017-08-23T21:00:12+08:00 ] ::1 /KMS/File/FileUpload/queryFiles
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001046s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003318s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003459s ]
+SQL: SHOW COLUMNS FROM `file` [ RunTime:0.0076s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `file` WHERE `upload_by` = 'kasol' LIMIT 1   [ RunTime:0.0004s ]
+SQL: SELECT * FROM `file` WHERE `upload_by` = 'kasol' LIMIT 0,12   [ RunTime:0.0006s ]
+
+[ 2017-08-23T21:03:42+08:00 ] ::1 /KMS/File/FileList/showList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000995s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002948s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003075s ]
+SQL: SHOW COLUMNS FROM `file` [ RunTime:0.0078s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `file` WHERE `upload_by` = 'kasol' LIMIT 1   [ RunTime:0.0005s ]
+SQL: SELECT * FROM `file` WHERE `upload_by` = 'kasol' LIMIT 0,12   [ RunTime:0.0005s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000192s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000279s ]
+NOTIC: [8] Undefined variable: file_info E:\XAMPP\htdocs\KMS\APP\Runtime\Cache\File\9ff97a256eed39422615e1ad086c624c.php 第 122 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.024717s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.024807s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001660s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001749s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.004694s ]
+INFO: [ app_end ] --END-- [ RunTime:0.004824s ]
+
+[ 2017-08-23T21:03:43+08:00 ] ::1 /KMS/File/FileUpload/queryFiles
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001549s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002283s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002417s ]
+SQL: SHOW COLUMNS FROM `file` [ RunTime:0.0081s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `file` WHERE `upload_by` = 'kasol' LIMIT 1   [ RunTime:0.0005s ]
+SQL: SELECT * FROM `file` WHERE `upload_by` = 'kasol' LIMIT 0,12   [ RunTime:0.0006s ]
+
+[ 2017-08-23T21:11:23+08:00 ] ::1 /KMS/File/FileList/showList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000035s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001602s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003396s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003556s ]
+SQL: SHOW COLUMNS FROM `file` [ RunTime:0.0112s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `file` WHERE `upload_by` = 'kasol' LIMIT 1   [ RunTime:0.0009s ]
+SQL: SELECT * FROM `file` WHERE `upload_by` = 'kasol' LIMIT 0,12   [ RunTime:0.0008s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000349s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000497s ]
+NOTIC: [8] Undefined variable: file_info E:\XAMPP\htdocs\KMS\APP\Runtime\Cache\File\9ff97a256eed39422615e1ad086c624c.php 第 122 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.038007s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.038167s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.003047s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.003181s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003680s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003850s ]
+
+[ 2017-08-23T21:11:24+08:00 ] ::1 /KMS/File/FileUpload/queryFiles
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001394s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.026270s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.026457s ]
+SQL: SHOW COLUMNS FROM `file` [ RunTime:0.0090s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `file` WHERE `upload_by` = 'kasol' LIMIT 1   [ RunTime:0.0005s ]
+SQL: SELECT * FROM `file` WHERE `upload_by` = 'kasol' LIMIT 0,12   [ RunTime:0.0007s ]
+
+[ 2017-08-23T21:12:01+08:00 ] ::1 /KMS/File/FileList/showList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001066s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003105s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003243s ]
+SQL: SHOW COLUMNS FROM `file` [ RunTime:0.0089s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `file` WHERE `upload_by` = 'kasol' LIMIT 1   [ RunTime:0.0006s ]
+SQL: SELECT * FROM `file` WHERE `upload_by` = 'kasol' LIMIT 0,12   [ RunTime:0.0009s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000225s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000334s ]
+NOTIC: [8] Undefined variable: file_info E:\XAMPP\htdocs\KMS\APP\Runtime\Cache\File\9ff97a256eed39422615e1ad086c624c.php 第 122 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.028466s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.028586s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.002145s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.002266s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.003227s ]
+INFO: [ app_end ] --END-- [ RunTime:0.003369s ]
+
+[ 2017-08-23T21:12:02+08:00 ] ::1 /KMS/File/FileUpload/queryFiles
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000936s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001424s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001516s ]
+SQL: SHOW COLUMNS FROM `file` [ RunTime:0.0072s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `file` WHERE `upload_by` = 'kasol' LIMIT 1   [ RunTime:0.0005s ]
+SQL: SELECT * FROM `file` WHERE `upload_by` = 'kasol' LIMIT 0,12   [ RunTime:0.0005s ]
+
+[ 2017-08-23T21:15:48+08:00 ] ::1 /KMS/File/FileList/showList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000033s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001298s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001949s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002150s ]
+SQL: SHOW COLUMNS FROM `file` [ RunTime:0.0086s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `file` WHERE `upload_by` = 'kasol' LIMIT 1   [ RunTime:0.0006s ]
+SQL: SELECT * FROM `file` WHERE `upload_by` = 'kasol' LIMIT 0,12   [ RunTime:0.0010s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000209s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000298s ]
+NOTIC: [8] Undefined variable: file_info E:\XAMPP\htdocs\KMS\APP\Runtime\Cache\File\9ff97a256eed39422615e1ad086c624c.php 第 122 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.062149s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.062267s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000893s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000990s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001534s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001650s ]
+
+[ 2017-08-23T21:15:49+08:00 ] ::1 /KMS/File/FileUpload/queryFiles?pageId=1&pageNum=12
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000716s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000873s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000951s ]
+SQL: SHOW COLUMNS FROM `file` [ RunTime:0.0075s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `file` WHERE `upload_by` = 'kasol' LIMIT 1   [ RunTime:0.0005s ]
+SQL: SELECT * FROM `file` WHERE `upload_by` = 'kasol' LIMIT 0,12   [ RunTime:0.0006s ]
+
+[ 2017-08-23T21:15:59+08:00 ] ::1 /KMS/File/FileList/showList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000032s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001049s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002756s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002912s ]
+SQL: SHOW COLUMNS FROM `file` [ RunTime:0.0085s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `file` WHERE `upload_by` = 'kasol' LIMIT 1   [ RunTime:0.0006s ]
+SQL: SELECT * FROM `file` WHERE `upload_by` = 'kasol' LIMIT 0,12   [ RunTime:0.0006s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000287s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000418s ]
+NOTIC: [8] Undefined variable: file_info E:\XAMPP\htdocs\KMS\APP\Runtime\Cache\File\9ff97a256eed39422615e1ad086c624c.php 第 122 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.024863s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.024965s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000614s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000707s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001387s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001529s ]
+
+[ 2017-08-23T21:16:00+08:00 ] ::1 /KMS/File/FileUpload/queryFiles?pageId=1&pageNum=12
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001497s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003007s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003146s ]
+SQL: SHOW COLUMNS FROM `file` [ RunTime:0.0087s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `file` WHERE `upload_by` = 'kasol' LIMIT 1   [ RunTime:0.0005s ]
+SQL: SELECT * FROM `file` WHERE `upload_by` = 'kasol' LIMIT 0,12   [ RunTime:0.0007s ]
+
+[ 2017-08-23T21:19:47+08:00 ] ::1 /KMS/File/FileList/showList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001573s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.011684s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.011840s ]
+SQL: SHOW COLUMNS FROM `file` [ RunTime:0.0133s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `file` WHERE `upload_by` = 'kasol' LIMIT 1   [ RunTime:0.0006s ]
+SQL: SELECT * FROM `file` WHERE `upload_by` = 'kasol' LIMIT 0,12   [ RunTime:0.0011s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000296s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000430s ]
+NOTIC: [8] Undefined variable: file_info E:\XAMPP\htdocs\KMS\APP\Runtime\Cache\File\9ff97a256eed39422615e1ad086c624c.php 第 122 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.049389s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.049532s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.001577s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.001709s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.002420s ]
+INFO: [ app_end ] --END-- [ RunTime:0.002561s ]
+
+[ 2017-08-23T21:19:49+08:00 ] ::1 /KMS/File/FileUpload/queryFiles?pageId=1&pageNum=12
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000070s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001833s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.007476s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.007637s ]
+SQL: SHOW COLUMNS FROM `file` [ RunTime:0.0089s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `file` WHERE `upload_by` = 'kasol' LIMIT 1   [ RunTime:0.0006s ]
+SQL: SELECT * FROM `file` WHERE `upload_by` = 'kasol' LIMIT 0,12   [ RunTime:0.0008s ]
+
+[ 2017-08-23T21:19:50+08:00 ] ::1 /KMS/File/FileUpload/queryFiles?pageId=1&pageNum=12
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000036s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001370s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002811s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002962s ]
+SQL: SHOW COLUMNS FROM `file` [ RunTime:0.0097s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `file` WHERE `upload_by` = 'kasol' LIMIT 1   [ RunTime:0.0005s ]
+SQL: SELECT * FROM `file` WHERE `upload_by` = 'kasol' LIMIT 0,12   [ RunTime:0.0007s ]
+
+[ 2017-08-23T21:19:55+08:00 ] ::1 /KMS/File/FileUpload/queryFiles?pageId=1&pageNum=12
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000936s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.002076s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.002168s ]
+SQL: SHOW COLUMNS FROM `file` [ RunTime:0.0069s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `file` WHERE `upload_by` = 'kasol' LIMIT 1   [ RunTime:0.0005s ]
+SQL: SELECT * FROM `file` WHERE `upload_by` = 'kasol' LIMIT 0,12   [ RunTime:0.0005s ]
+
+[ 2017-08-23T21:20:01+08:00 ] ::1 /KMS/File/FileUpload/queryFiles?pageId=1&pageNum=12
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000026s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001279s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004995s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.005217s ]
+SQL: SHOW COLUMNS FROM `file` [ RunTime:0.0069s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `file` WHERE `upload_by` = 'kasol' LIMIT 1   [ RunTime:0.0005s ]
+SQL: SELECT * FROM `file` WHERE `upload_by` = 'kasol' LIMIT 0,12   [ RunTime:0.0005s ]
+
+[ 2017-08-23T21:20:09+08:00 ] ::1 /KMS/File/FileUpload/queryFiles?pageId=1&pageNum=12
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000050s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001472s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.003652s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.003805s ]
+SQL: SHOW COLUMNS FROM `file` [ RunTime:0.0609s ]
+SQL: SELECT COUNT(*) AS tp_count FROM `file` WHERE `upload_by` = 'kasol' LIMIT 1   [ RunTime:0.0007s ]
+SQL: SELECT * FROM `file` WHERE `upload_by` = 'kasol' LIMIT 0,12   [ RunTime:0.0007s ]
+

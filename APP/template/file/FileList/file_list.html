@@ -1,0 +1,99 @@
+<extend name="./layout" />
+<block name="title"><title>文件中心</title></block>
+
+<block name="content">
+    <div class="file-wrapper" ai-controller="fileController" >
+        <!--<h1 class="file-title">这里是文件中心{$file_info}</h1>-->
+        <div class="file-menu">
+
+        </div>
+        <div class="file-operation">
+                <div class="up-area">
+                   <ul class="file-items">
+                       <li><label data-toggle="modal" data-target="#myModal"  class="btn btn-primary">选择</label></li>
+                       <li><label class="btn btn-primary" ai-click="refresh_files(1)">刷新</label></li>
+                       <li><label class="btn btn-primary">设置</label></li>
+                       <li><label class="btn btn-primary">导出</label></li>
+                       <li class="edit-zone" ai-visible="show">
+                          <!-- <label  class="btn btn-primary">上传</label>
+                           <label ai-click="delete_files" class="btn btn-primary">删除</label>
+                           <label  class="file-info"></label>
+                           <label><progress class="progressbar" value="0" max="100"></progress></label>-->
+                       </li>
+                   </ul>
+
+                    <form action="" enctype="multipart/form-data" method="post">
+                        <input ai-change="selected_callback" type="file" multiple id="fileInput" style="display: none" accept="image/*,video/*,audio/*,application/*">
+                        <input type="reset"  id="fileClear" style="display: none">
+                    </form>
+                </div>
+                <div class="down-area row" >
+                    <div class="img-wrapper pull-left" ai-repeat="pics" tabindex="0" >
+                        <span class="delete-file-btn">X</span>
+                        <img class="" ai-src="item.src" >
+                        <p>
+                             <span>类型：[[item.type]]</span>
+
+                        </p>
+                        <p>
+                            <span>名称：[[item.name]]</span>
+                        </p>
+                    </div>
+                    <div>
+                        <include file="paginator/pagination/pagination" />
+                    </div>
+                </div>
+            <div class="modal fade" id="myModal" tabindex="-1" role="dialog" aria-labelledby="myModalLabel" aria-hidden="true">
+                <div class="modal-dialog">
+                    <div class="modal-content">
+                        <div class="modal-header">
+                            <button type="button" class="close" data-dismiss="modal" aria-hidden="true">&times;</button>
+                            <h4 class="modal-title" id="myModalLabel">模态框（Modal）标题</h4>
+                        </div>
+                        <div class="modal-body">
+                            <div class="table-responsive">
+                                <table class="table table-hover table-striped  ">
+                                    <thead>
+                                    <tr>
+                                        <th>文件类型</th>
+                                        <th>文件大小</th>
+                                        <th>文件名称</th>
+                                        <th>上传进度</th>
+                                        <th>操作</th>
+                                    </tr>
+                                    </thead>
+                                    <tbody>
+                                    <tr ai-repeat="items" class="item-info">
+                                        <td>[[item.type]]</td>
+                                        <td>[[item.max]]KB</td>
+                                        <td>[[item.name]]</td>
+                                        <td><progress class="progressbar" ai-max="item.max" ai-value="item.progress"></progress> [[item.percent]]%</td>
+                                        <td><span class="glyphicon glyphicon-remove" style="color: rgb(255, 140, 60);"> </span></td>
+                                    </tr>
+                                    </tbody>
+                                </table>
+                            </div>
+                        </div>
+                        <div class="modal-footer">
+                            <label for="fileInput" class="btn btn-default" >选择本地文件</label>
+                            <label for="fileClear" class="btn btn-default" >清除全部</label>
+                            <button type="button"  ai-click='upload_files'  class="btn btn-primary">确认上传</button>
+                        </div>
+                    </div><!-- /.modal-content -->
+                </div><!-- /.modal -->
+            </div>
+        </div>
+    </div>
+
+</block>
+<block name="extend_script">
+    <script>
+        window.UPLOAD_BASE_URl="/KMS/Uploads/";
+          seajs.use(["/KMS/Pub/static/js/file/file_list.js"],function(File){
+               var file=new File();
+              file.init();
+          });
+    </script>
+</block>
+
+

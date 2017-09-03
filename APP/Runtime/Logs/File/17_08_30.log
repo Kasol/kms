@@ -1,0 +1,18 @@
+[ 2017-08-30T11:12:10+08:00 ] ::1 /KMS/File/FileList/showList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000013s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000309s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000478s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000515s ]
+ERR: SQLSTATE[HY000] [1049] Unknown database 'kms'
+
+[ 2017-08-30T11:23:16+08:00 ] ::1 /KMS/File/FileList/showList
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000017s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000625s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000687s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000724s ]
+ERR: SQLSTATE[HY000] [1049] Unknown database 'kms'
+

@@ -1,0 +1,210 @@
+[ 2017-08-17T11:16:01+08:00 ] ::1 /KMS/index.php/Admin/GetData/printJC?num=3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000853s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001359s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001485s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001501s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001623s ]
+
+[ 2017-08-17T11:21:33+08:00 ] ::1 /KMS/Admin/GetData/printJC?num=3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000031s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000939s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001339s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001426s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001258s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001347s ]
+
+[ 2017-08-17T11:21:35+08:00 ] ::1 /KMS/Admin/GetData/printJC?num=3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000038s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001183s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001408s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001566s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001466s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001642s ]
+
+[ 2017-08-17T11:22:12+08:00 ] ::1 /KMS/Admin/GetData/printJC/num/3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000023s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000703s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001093s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001192s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.001295s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001411s ]
+
+[ 2017-08-17T11:22:18+08:00 ] ::1 /KMS/Admin/GetData/printJC?num=3
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000043s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001377s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001664s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001827s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000984s ]
+INFO: [ app_end ] --END-- [ RunTime:0.001081s ]
+
+[ 2017-08-17T19:55:04+08:00 ] ::1 /KMS/Admin/News/read/id/4
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000053s ]
+INFO: [ app_init ] --END-- [ RunTime:0.017667s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.004471s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.004727s ]
+SQL: SHOW COLUMNS FROM `comment` [ RunTime:0.0082s ]
+SQL: SELECT * FROM `comment` WHERE ( note_info_id=4 ) ORDER BY public_time LIMIT 10   [ RunTime:0.0009s ]
+SQL: SELECT * FROM `comment` WHERE `comment_id` = 4 LIMIT 1   [ RunTime:0.0005s ]
+
+[ 2017-08-17T19:55:12+08:00 ] ::1 /KMS/Admin/News/read/id/30
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000018s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000641s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000776s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000830s ]
+SQL: SHOW COLUMNS FROM `comment` [ RunTime:0.0104s ]
+SQL: SELECT * FROM `comment` WHERE ( note_info_id=30 ) ORDER BY public_time LIMIT 10   [ RunTime:0.0004s ]
+SQL: SELECT * FROM `comment` WHERE `comment_id` = 30 LIMIT 1   [ RunTime:0.0002s ]
+
+[ 2017-08-17T19:57:44+08:00 ] ::1 /KMS/Admin/News/read/id/30
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.001222s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001101s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001175s ]
+SQL: SHOW COLUMNS FROM `comment` [ RunTime:0.0050s ]
+SQL: SELECT * FROM `comment` WHERE ( note_info_id=30 ) ORDER BY public_time LIMIT 10   [ RunTime:0.0004s ]
+SQL: SELECT * FROM `comment` WHERE `comment_id` = 30 LIMIT 1   [ RunTime:0.0002s ]
+ERR: 模板不存在:./App/template/News/read.html
+
+[ 2017-08-17T19:58:11+08:00 ] ::1 /KMS/Admin/News/read/id/30
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000022s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000762s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000834s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000913s ]
+SQL: SHOW COLUMNS FROM `comment` [ RunTime:0.0042s ]
+SQL: SELECT * FROM `comment` WHERE ( note_info_id=30 ) ORDER BY public_time LIMIT 10   [ RunTime:0.0004s ]
+SQL: SELECT * FROM `comment` WHERE `comment_id` = 30 LIMIT 1   [ RunTime:0.0002s ]
+ERR: 模板不存在:./App/template/admin/News/read.html.html
+
+[ 2017-08-17T19:58:23+08:00 ] ::1 /KMS/Admin/News/read/id/30
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000020s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000715s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000680s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000748s ]
+SQL: SHOW COLUMNS FROM `comment` [ RunTime:0.0043s ]
+SQL: SELECT * FROM `comment` WHERE ( note_info_id=30 ) ORDER BY public_time LIMIT 10   [ RunTime:0.0004s ]
+SQL: SELECT * FROM `comment` WHERE `comment_id` = 30 LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+NOTIC: [2] file_get_contents(./App/template/../layout.html): failed to open stream: No such file or directory E:\XAMPP\htdocs\KMS\ThinkPHP\Library\Think\Template.class.php 第 696 行.
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000136s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000320s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.061829s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.062002s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.004813s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.005018s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.010782s ]
+INFO: [ app_end ] --END-- [ RunTime:0.010998s ]
+
+[ 2017-08-17T19:58:27+08:00 ] ::1 /KMS/Admin/News/read/id/30
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000024s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000880s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000854s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000935s ]
+SQL: SHOW COLUMNS FROM `comment` [ RunTime:0.0041s ]
+SQL: SELECT * FROM `comment` WHERE ( note_info_id=30 ) ORDER BY public_time LIMIT 10   [ RunTime:0.0004s ]
+SQL: SELECT * FROM `comment` WHERE `comment_id` = 30 LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+NOTIC: [2] file_get_contents(./App/template/../layout.html): failed to open stream: No such file or directory E:\XAMPP\htdocs\KMS\ThinkPHP\Library\Think\Template.class.php 第 696 行.
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000053s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000123s ]
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.006588s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.006653s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000270s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000308s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000489s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000545s ]
+
+[ 2017-08-17T19:58:44+08:00 ] ::1 /KMS/Admin/News/read/id/30
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000016s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000548s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000544s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000595s ]
+SQL: SHOW COLUMNS FROM `comment` [ RunTime:0.0042s ]
+SQL: SELECT * FROM `comment` WHERE ( note_info_id=30 ) ORDER BY public_time LIMIT 10   [ RunTime:0.0004s ]
+SQL: SELECT * FROM `comment` WHERE `comment_id` = 30 LIMIT 1   [ RunTime:0.0002s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000076s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000130s ]
+NOTIC: [8] Undefined variable: title E:\XAMPP\htdocs\KMS\APP\Runtime\Cache\Admin\0c595a39e0ae0c735a144564f447070e.php 第 4 行.
+NOTIC: [8] Undefined variable: list E:\XAMPP\htdocs\KMS\APP\Runtime\Cache\Admin\0c595a39e0ae0c735a144564f447070e.php 第 120 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.042350s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.042407s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000401s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000440s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000592s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000643s ]
+
+[ 2017-08-17T19:58:48+08:00 ] ::1 /KMS/Admin/News/read/id/30
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000015s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000558s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.000460s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.000514s ]
+SQL: SHOW COLUMNS FROM `comment` [ RunTime:0.0043s ]
+SQL: SELECT * FROM `comment` WHERE ( note_info_id=30 ) ORDER BY public_time LIMIT 10   [ RunTime:0.0005s ]
+SQL: SELECT * FROM `comment` WHERE `comment_id` = 30 LIMIT 1   [ RunTime:0.0003s ]
+INFO: [ view_parse ] --START--
+INFO: [ template_filter ] --START--
+INFO: Run Behavior\ContentReplaceBehavior [ RunTime:0.000087s ]
+INFO: [ template_filter ] --END-- [ RunTime:0.000149s ]
+NOTIC: [8] Undefined variable: title E:\XAMPP\htdocs\KMS\APP\Runtime\Cache\Admin\0c595a39e0ae0c735a144564f447070e.php 第 4 行.
+NOTIC: [8] Undefined variable: list E:\XAMPP\htdocs\KMS\APP\Runtime\Cache\Admin\0c595a39e0ae0c735a144564f447070e.php 第 120 行.
+INFO: Run Behavior\ParseTemplateBehavior [ RunTime:0.008163s ]
+INFO: [ view_parse ] --END-- [ RunTime:0.008217s ]
+INFO: [ view_filter ] --START--
+INFO: Run Behavior\WriteHtmlCacheBehavior [ RunTime:0.000262s ]
+INFO: [ view_filter ] --END-- [ RunTime:0.000308s ]
+INFO: [ app_end ] --START--
+INFO: Run Behavior\ShowPageTraceBehavior [ RunTime:0.000646s ]
+INFO: [ app_end ] --END-- [ RunTime:0.000701s ]
+
+[ 2017-08-17T20:01:08+08:00 ] ::1 /KMS/Admin/News/read/id/30
+INFO: [ app_init ] --START--
+INFO: Run Behavior\BuildLiteBehavior [ RunTime:0.000021s ]
+INFO: [ app_init ] --END-- [ RunTime:0.000715s ]
+INFO: [ app_begin ] --START--
+INFO: Run Behavior\ReadHtmlCacheBehavior [ RunTime:0.001539s ]
+INFO: [ app_begin ] --END-- [ RunTime:0.001624s ]
+SQL: SHOW COLUMNS FROM `comment` [ RunTime:0.0056s ]
+SQL: SELECT * FROM `comment` WHERE ( note_info_id=30 ) ORDER BY public_time LIMIT 10   [ RunTime:0.0005s ]
+SQL: SELECT * FROM `comment` WHERE `comment_id` = 30 LIMIT 1   [ RunTime:0.0003s ]
+
